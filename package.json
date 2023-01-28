@@ -1,0 +1,16 @@
+{
+  "name": "31_5_jest",
+  "version": "1.0.0",
+  "description": "Markov Machine",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "jest"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.4",
+    "jest": "^29.3.1"
+  }
+}
